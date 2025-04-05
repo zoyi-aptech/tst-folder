@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .hero-section {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+    /* color: white; */
+    text-align: center;
+    padding: 200px 0;
+  }
+
+  .menu-item {
+    margin-bottom: 30px;
+  }
+
+  .menu-item img {
+    width: 100%;
+    height: auto;
+  }
+
+  footer {
+    /* background-color: #343a40; */
+    color: white;
+    padding: 20px 0;
+  }
+
+  .branch-card {
+    margin-bottom: 20px;
+    }
+    .card{
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .card:hover{
+      transform: translateY(-10px);
+      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.8);
+    }

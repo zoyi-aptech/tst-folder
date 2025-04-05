@@ -1,0 +1,34 @@
+# robots.txt for FastFood Restaurant Website
+
+User-agent: *  # Applies to all search engines
+Disallow: /admin/  # Don't index the admin section (if any)
+Disallow: /cart/  # Don't index the shopping cart page (if any)
+Disallow: /checkout/  # Don't index the checkout page (if any)
+Allow: /  # Allow crawling the home page and all public pages
+
+Sitemap: https://www.yoursite.com/sitemap.xml  # URL to your sitemap file
+
+
+Primary Keyword: Fast Food Restaurant
+
+Secondary Keywords:
+
+Best Fast Food Restaurant
+
+Quick and Tasty Fast Food
+
+Affordable Fast Food Options
+
+Best Fast Food Menu
+
+Local Fast Food Restaurant
+
+Fast Food Near Me
+
+Healthy Fast Food Choices
+
+Fast Food Reviews
+
+Family-friendly Fast Food
+
+Fast Food Deals
